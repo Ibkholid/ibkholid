@@ -11,9 +11,6 @@ I focus on routing and switching, network redundancy, and high availability, and
 - Network Troubleshooting
 - Continuous learning in IT Networking
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/ibkholid
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
 ![https://www.linkedin.com/in/ibkholid/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
