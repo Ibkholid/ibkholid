@@ -13,7 +13,7 @@ I focus on routing and switching, network redundancy, and high availability, and
 ## 📫 Connect with Me
 
  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibkholid/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibkholid/)
 
 
 <!--
