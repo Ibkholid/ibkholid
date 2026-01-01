@@ -4,14 +4,16 @@ I'm Ibnu Kholid,
 I am Junior Network Engineer with hands-on experience in building enterprise-style network labs using Cisco technologies.
 
 I focus on routing and switching, network redundancy, and high availability, and I continuously improve my skills through hands-on labs and self-learning.
-## 🔹 Fokus & Interests
+## 🎯 Fokus & Interests
 - Enterprise Network Design
 - Routing & Switching (VLAN, OSPF, STP)
 - High Availability (HSRP, EtherChannel)
 - Network Troubleshooting
 - Continuous learning in IT Networking
 ## 📫 Connect with Me
-
+<a href="https://www.linkedin.com/in/ibkholid/">
+  <img src="https://t3.ftcdn.net/jpg/03/95/39/16/360_F_395391650_6LfU41V5A4WIhdTis899OaF7wXVgThgP.jpg" width="72"/>
+</a>
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibkholid/)     [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ib.kholid)
 
