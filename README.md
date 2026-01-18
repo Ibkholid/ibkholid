@@ -1,15 +1,26 @@
-##  👋 Hi there 
-I'm Ibnu Kholid, 
-## 🔹 About Me
-I am Junior Network Engineer with hands-on experience in building enterprise-style network labs using Cisco technologies.
+##  👋 Hi, I'm Ibnu Kholid
+
+I'm Junior Network Engineer with hands-on experience in building enterprise-style network labs using Cisco technologies.
 
 I focus on routing and switching, network redundancy, and high availability, and I continuously improve my skills through hands-on labs and self-learning.
-## 🎯 Fokus & Interests
-- Enterprise Network Design
-- Routing & Switching (VLAN, OSPF, STP)
-- High Availability (HSRP, EtherChannel)
-- Network Troubleshooting
-- Continuous learning in IT Networking
+
+---- 
+## 🛠️ Skills & Technologies
+- Network Devices: MikroTik, Cisco, Allied Telesis
+- Routing: Static, RIP, OSPF, EIGRP, BGP (basic)
+- Switching: VLAN, Trunking, Inter-VLAN Routing
+- Network Basics: ACL, IP Addressing, Subnetting, Troubleshooting
+- Tools: Cisco Packet Tracer, PNETLab, Winbox & CLI, Zabbix
+
+---
+## 📂 Repositories
+
+- Konfigurasi MikroTik (VLAN, Routing, ACL)
+- Lab Cisco Routing & Switching
+- Dokumentasi topologi dan catatan pembelajaran jaringan
+
+---
+
 ## 🌐 Connect with Me
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibkholid/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ib.kholid)
