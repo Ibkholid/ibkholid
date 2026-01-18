@@ -8,8 +8,8 @@ I focus on routing and switching, network redundancy, and high availability, and
 ## 🛠️ Skills & Technologies
 - Network Devices: MikroTik, Cisco, Allied Telesis
 - Routing: Static, RIP, OSPF, EIGRP, BGP (basic)
-- Switching: VLAN, Trunking, Inter-VLAN Routing
-- Network Basics: ACL, IP Addressing, Subnetting, Troubleshooting
+- Switching: VLAN, Trunking, Inter-VLAN Routing, Port-security, Etherchannel
+- Network Basics: Access Control List (ACL), Network Address Translation (NAT), IP Addressing, Subnetting, Troubleshooting
 - Tools: Cisco Packet Tracer, PNETLab, Winbox & CLI, Zabbix
 
 ---
@@ -18,6 +18,17 @@ I focus on routing and switching, network redundancy, and high availability, and
 - Konfigurasi MikroTik (VLAN, Routing, ACL)
 - Lab Cisco Routing & Switching
 - Dokumentasi topologi dan catatan pembelajaran jaringan
+
+---
+🎓 Certifications
+
+🏅 <p align="center">
+  <img src="![alt text](<img/Agunan Course - Kelas Cisco CCNA 200-301/Agunan Course - Kelas Cisco CCNA 200-301_00.png>)" width="500"/>
+</p>
+
+🏅 [Nama Sertifikat 2]
+
+🏅 [Nama Sertifikat 3]
 
 ---
 
