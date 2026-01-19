@@ -22,11 +22,9 @@ I focus on routing and switching, network redundancy, and high availability, and
 ---
 🎓 Certifications
 
-🏅 <p align="center">
-  <img src="![alt text](<img/Agunan Course - Kelas Cisco CCNA 200-301/Agunan Course - Kelas Cisco CCNA 200-301_00.png>)" width="500"/>
-</p>
+🏅 ![alt text](<img/Agunan Course - Kelas Cisco CCNA 200-301_00.png>)
 
-🏅 [Nama Sertifikat 2]
+🏅 ![alt text](<img/ID Networkers - Mikrotik MTCNA + Exam_00.png>)
 
 🏅 [Nama Sertifikat 3]
 
