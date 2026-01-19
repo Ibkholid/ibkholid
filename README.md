@@ -10,7 +10,7 @@ I focus on routing and switching, network redundancy, and high availability, and
 - Routing: Static, RIP, OSPF, EIGRP, BGP (basic)
 - Switching: VLAN, Trunking, Inter-VLAN Routing, Port-security, Etherchannel
 - Network Basics: Access Control List (ACL), Network Address Translation (NAT), IP Addressing, Subnetting, Troubleshooting
-- Tools: Cisco Packet Tracer, PNETLab, Winbox & CLI, Zabbix
+- Tools: Cisco Packet Tracer, PNETLab, Winbox, Zabbix
 
 ---
 ## 📂 Repositories
@@ -20,8 +20,6 @@ I focus on routing and switching, network redundancy, and high availability, and
 - Dokumentasi topologi dan catatan pembelajaran jaringan
 
 ---
-🎓 Certifications
-
 ## 🎓 Certifications
 
 
