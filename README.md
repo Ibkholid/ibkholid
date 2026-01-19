@@ -15,16 +15,19 @@ I focus on routing and switching, network redundancy, and high availability, and
 ---
 ## 📂 Repositories
 
-- Konfigurasi MikroTik (VLAN, Routing, ACL)
-- Lab Cisco Routing & Switching
-- Dokumentasi topologi dan catatan pembelajaran jaringan
+- [Network Lab Part 1](https://github.com/Ibkholid/Hands_on-Pratice-01.git)
+- [Network Lab Part 2](https://github.com/Ibkholid/Hands_On-Pratice-02.git)
 
 ---
 ## 🎓 Certifications
 
-
+<p align="center">
   <img src="img\Coursera Basic BGP_00.png" width="180"/>  <img src="img\Agunan Course - Kelas Cisco CCNA 200-301_00.png" width="195"/> <img src="img/ID Networkers - Mikrotik MTCNA + Exam_00.png" width="195"/>  <img src="img\ITBox - Computer Network Course Level Basic_00.png" width="180"/>
+</p>
 
+<p align="center">
+<img src="img\Sertifikat MTCNA_00.png" width="180"/>
+</p>
 
 ---
 
