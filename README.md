@@ -15,9 +15,8 @@ I focus on routing and switching, network redundancy, and high availability, and
 ---
 ## 📂 Repositories
 
-- Konfigurasi MikroTik (VLAN, Routing, ACL)
-- Lab Cisco Routing & Switching
-- Dokumentasi topologi dan catatan pembelajaran jaringan
+- [Network Lab Part 1](https://github.com/Ibkholid/Hands_on-Pratice-01.git)
+- [Network Lab Part 2](https://github.com/Ibkholid/Hands_On-Pratice-02.git)
 
 ---
 ## 🎓 Certifications
